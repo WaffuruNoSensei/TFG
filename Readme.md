@@ -8,7 +8,7 @@ La idea principal del juego es usando el sistema del videojuego de rol de mesa d
 * Creación de personajes personalizados (raza, clase, características, habilidades, talentos, etc...)
 * Pequeña wiki sobre las razas, clases, armas, usadas en el juego...
 * Diario: Conforme el jugador avance la historia, se irá "apuntando" automáticamente sus descubrimientos sobre personajes y lugares que vaya conociendo en el juego.
-* Historia principal con decisiones, unas 3/4 horas de juego, con fotos de los personajes que vayan apareciendo.
+* Historia principal con decisiones con fotos de los personajes que vayan apareciendo.
 * Tiradas de dados: Para el daño y para acertar tus habilidades y ataques habrá que simular esa partida de rol, por lo que el jugador tendrá que hacer tiradas de dados conforme se le diga para ver si acierta la habilidad, los dados usados en este sistema son dados de 10 y dados de 100.
 
 ### Sistema de juego
